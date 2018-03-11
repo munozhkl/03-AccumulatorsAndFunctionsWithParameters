@@ -24,7 +24,7 @@ def main():
     draw_circles3(100)
     print_cosines(101)
     draw_cosines_and_sines(101)
-    
+
 
 def print_sequence1():
     """
