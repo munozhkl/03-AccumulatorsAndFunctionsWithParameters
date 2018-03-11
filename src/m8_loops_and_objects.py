@@ -67,7 +67,7 @@ def draw_circles1(n):
     # ------------------------------------------------------------------
     print()
     print('--------------------------------------------------')
-    print('Runnng draw_circles1:  See graphics window')
+    print('Running draw_circles1:  See graphics window')
     print('--------------------------------------------------')
     window = rg.RoseWindow(400, 400)
     center = rg.Point(200, 200)
