@@ -41,7 +41,7 @@ def run_test_sum_powers():
     # test3
     expected = 1**3 + 2**3
     actual = sum_powers(2, 3)
-    print('Test 3 expected:', expected)
+    print('Test 3expected:', expected)
     print('Test 3 actual:', actual)
 
 
