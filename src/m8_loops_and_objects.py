@@ -180,7 +180,7 @@ def draw_circles3(n):
         circle = rg.Circle(center, 1 + k)
         circle.attach_to(window)
         window.render()
-        window.close_on_mouse_click()
+    window.close_on_mouse_click()
 
 
 def print_cosines(n):
@@ -251,7 +251,7 @@ def draw_cosines_and_sines(n):
         circle = rg.Circle(center, 10)
         circle.attach_to(window)
         window.render()
-        window.close_on_mouse_click()
+    window.close_on_mouse_click()
 
 # ----------------------------------------------------------------------
 # If this module is running at the top level (as opposed to being
